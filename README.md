@@ -32,14 +32,3 @@
   <img src="/docs/screenshots/format.png">
   <img src="/docs/screenshots/about.png">
 </p>
-
-<h2 align="center">Other "Quick" apps</h2>
-<p align="center">
-  <a href="https://github.com/ModuleArt/quick-picture-viewer/">Quick Picture Viewer</a> - Lightweight versatile, desktop photo viewer for Windows<br>
-  <a href="https://github.com/ModuleArt/quick-screen-recorder/">Quick Screen Recorder</a> - Lightweight desktop screen recorder for Windows
-</p>
-
-<h2 align="center">Inspirers</h2>
-<p align="center">
-  <a href="https://annystudio.com/software/colorpicker/">Just Color Picker</a> v5.1 by AnnyStudio
-</p>
